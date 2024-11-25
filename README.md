@@ -7,3 +7,5 @@
 - Sheperd's bush
 - Holland park
 - Notting hill gate
+- Queensway
+- Lancaster gate
