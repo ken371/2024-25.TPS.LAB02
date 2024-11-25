@@ -2,4 +2,6 @@
 ## central-east
 -Ealing broadway
 -West acton
+-East acton
+-White city
 
